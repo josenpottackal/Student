@@ -2,8 +2,8 @@
 /**
 * File Name: Student.java
 * Purpose: Emulates a student
-* Date: 2020-03-01
-* Last modified: 2020-03-01
+* Date: 2019-10-10
+* Last modified: 2020-10-10
 * Author: Josen Pottackal
 * Copy right no copyright
 * Version: 1.0
